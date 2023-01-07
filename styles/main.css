@@ -166,6 +166,7 @@
 }
 
 /* custom styles */
+
 .social-section {
     background-image: linear-gradient(60deg, #005FAC 0%, rgba(0, 95, 172, 0) 30%), url('/images/icons/soundcloud.png');
     height: 400px;

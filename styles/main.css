@@ -9,7 +9,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-        
+
 }
 
 .banner {
@@ -53,14 +53,17 @@
     align-items: center;
     padding: 130px;
 }
-.parson{
+
+.parson {
     width: 50%;
     padding: 15px;
 }
-.my-failures{
+
+.my-failures {
     width: 50%;
     padding: 15px;
 }
+
 .failures-title {
     font-weight: 700;
     font-size: 40px;
@@ -74,6 +77,46 @@
     color: #444343;
     margin-bottom: 16px;
 }
-.failures-list li{
+
+.failures-list li {
     padding: 8px 0;
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+}
+
+.plan-header {
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    margin-bottom: 50px;
+}
+
+.skills-container {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0 100px;
+
+    
+}
+.skills{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 130px;
+}
+.skills-container h4 {
+    font-weight: 700;
+    font-size: 30px;
+    color: #151414;
+}
+
+.call-now-container{
+    background:linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%),url("/images/watch.png");
+    background-size: cover;
+    padding: 59px 64px ;
+    background-repeat: no-repeat;
+    margin-bottom: 130px;
+    margin: 0 170px 130px 170px;
+
 }
